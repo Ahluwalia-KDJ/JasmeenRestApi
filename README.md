@@ -21,7 +21,7 @@ Resources are located at following URLs:
 3. All product details http://localhost:8080/products/details
 4. Individual product details http://localhost:8080/products/details/{prodid}
    (where {prodid} is the particular product ID)
-5. Individual products at http://localhost:8080/products/{prodid}
+5. Individual products at http://localhost:8080/products/{prodid}  (can be viewed in xml/json format)
    (where {prodid} is the particular product ID)
 
 Note: The API can also be accessed via Clients like Postman etc. to check REST API functionalities, and where the resources reside.
