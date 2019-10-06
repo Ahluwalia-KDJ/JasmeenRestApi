@@ -8,9 +8,9 @@ Softwares used:
 
 How to run Project:
 1. Download entire project and unzip jasmeenAPI.zip
-2. Import project into an IDE (preferably Eclipse)
-3. Click on imported project and choose run as Java Application.
-4. Choose 'JasmeenApiApplication - com.jasmeen.jasmeenAPI' from the list populated by run as wizard.
+2. Import project into an IDE (preferably Eclipse) (Open projects from File System and select folder jasmeenAPI)
+3. Click on project and choose run as Java Application.
+4. Choose 'JasmeenApiApplication - com.jasmeen.jasmeenAPI' from the list populated by the 'run as' wizard.
 5. Port 8080 must be vacant.
 6. In web browser enter the URL http://localhost:8080/ to start using the REST API. (Homepage)
 7. Since all dependencies are included the project can simply be run after pulling from GitHub.
