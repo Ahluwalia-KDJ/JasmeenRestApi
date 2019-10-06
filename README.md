@@ -9,11 +9,11 @@ Softwares used:
 How to run Project:
 1. Download entire project and unzip jasmeenAPI.zip
 2. Import project into an IDE (preferably Eclipse) (Open projects from File System and select folder jasmeenAPI)
-3. Click on project and choose run as Java Application.
+3. Right click on project and choose run as Java Application.
 4. Choose 'JasmeenApiApplication - com.jasmeen.jasmeenAPI' from the list populated by the 'run as' wizard.
 5. Port 8080 must be vacant.
 6. In web browser enter the URL http://localhost:8080/ to start using the REST API. (Homepage)
-7. Since all dependencies are included the project can simply be run after pulling from GitHub.
+7. Since all dependencies are included the project can simply be run after downloading from GitHub.
 
 Resources are located at following URLs:
 1. Products catalog at http://localhost:8080/products
@@ -21,6 +21,8 @@ Resources are located at following URLs:
 3. All product details http://localhost:8080/products/details
 4. Individual product details http://localhost:8080/products/details/{prodid}
    (where {prodid} is the particular product ID)
+5. Individual products at http://localhost:8080/products/{prodid}
+   (where {prodid} is the particular product ID)
 
-Note: The API can also be accessed via Clients like Postman etc. to check REST API functionalities
+Note: The API can also be accessed via Clients like Postman etc. to check REST API functionalities, and where the resources reside.
 
